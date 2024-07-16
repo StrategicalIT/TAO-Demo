@@ -1,0 +1,1 @@
+{"schema":"v1","records":[{"type":"ENVIRONMENT","operation":"CREATED","data":[{"data":"Added packages through apt package manager: unzip","mime":"text/plain"}],"important":null},{"type":"PROJECT","operation":"CREATED","data":[{"data":"Created app 'Visual Studio Code'","mime":"text/plain"}],"important":null}]}
